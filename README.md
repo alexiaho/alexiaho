@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning engineering life sciences
+- 🌱 I’m currently learning engineering in life sciences
 <!--
 **alexiaho/alexiaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
